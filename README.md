@@ -30,3 +30,4 @@ Uma das grandes vantagens do Java é a sua extensa biblioteca padrão multiplata
 
 * [Java e java.lang: programe com a clase Object e String](https://github.com/klayton-a-souza/Java-e-java.lang)
 * [Java e java.util: Coleções, Wrappers e Lambda expressions](https://github.com/klayton-a-souza/Java-e-java.util)
+* [Java e java.io: Streams, Reader e Writers](https://github.com/klayton-a-souza/Java-e-java.io)
