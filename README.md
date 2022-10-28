@@ -2,16 +2,9 @@
   <img src="https://cryptoid.com.br/wp-content/uploads/2017/03/java_capa-1440x564_c.jpg">
   <br>
   Formação Java
+  <br>
   </br>
 </h1>
-
-<h4>Contagem de cursos</h4>
-<p>
-    <a href="#tabla-de-contenido">    
-    <img src="https://img.shields.io/badge/Cursos-9-brightgreen.svg?style=plastc-square">
-  </a>
-</p>
-
 
 
 ## Entender a linguagem Java e orientação a objetos
