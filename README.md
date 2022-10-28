@@ -32,3 +32,12 @@ Uma das grandes vantagens do Java é a sua extensa biblioteca padrão multiplata
 * [Java e java.util: Coleções, Wrappers e Lambda expressions](https://github.com/klayton-a-souza/Java-e-java.util)
 * [Java e java.io: Streams, Reader e Writers](https://github.com/klayton-a-souza/Java-e-java.io)
 * [Java Collections: Dominando Listas, Sets e Mapas](https://github.com/klayton-a-souza/Java-Collections)
+
+## Aprofundar em Java moderno e TDD
+
+Chegou a hora de conhecer o Java moderno, os recursos que foram introduzidos a partir da inovadora versão 8, como lambdas, streams e a nova API de datas.
+
+Além disso, vamos dar uma olhada no desenvolvimento ágil e entrar no tópico importante de desenvolvimento guiado por testes, o TDD (Test Driven Development), usando a sua linguagem favorita junto a biblioteca JUnit.
+
+* [Java 8: conheça as novidades dessa versão](https://github.com/klayton-a-souza/Java-8)
+* [TDD e Java: testes automatizadoscom JUnit]()
