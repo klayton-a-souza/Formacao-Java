@@ -33,4 +33,4 @@ Chegou a hora de conhecer o Java moderno, os recursos que foram introduzidos a p
 Além disso, vamos dar uma olhada no desenvolvimento ágil e entrar no tópico importante de desenvolvimento guiado por testes, o TDD (Test Driven Development), usando a sua linguagem favorita junto a biblioteca JUnit.
 
 * [Java 8: conheça as novidades dessa versão](https://github.com/klayton-a-souza/Java-8)
-* [TDD e Java: testes automatizadoscom JUnit]()
+* [TDD e Java: testes automatizadoscom JUnit](https://github.com/klayton-a-souza/TDD-e-Java)
